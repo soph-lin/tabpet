@@ -2,7 +2,7 @@
 
 A fluffy companion to join you on your web-surfing adventures. Currently only supported on Chrome.
 
-![image](https://github.com/user-attachments/assets/2b118089-ac89-4be9-88bb-78b6cc7fc17c)
+![gif](https://github.com/user-attachments/assets/dc8f3c04-ad7f-4b59-a235-41eb969c484e)
 
 ## Overview
 
