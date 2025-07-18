@@ -6,7 +6,7 @@ A fluffy companion to join you on your web-surfing adventures. Currently only su
 
 ## Overview
 
-TabPet is an innovative Chrome extension that reimagines browser tabs as an interactive virtual pet environment. Unlike traditional Chrome extensions, TabPet implements a full-fledged game engine architecture, pushing the boundaries of what's possible within browser extension constraints.
+TabPet is a cool lil Chrome Extension that adds a pet to your browser, complete with a game-engine inspired architecture and cute Easter eggs.
 
 ## Features
 
@@ -18,7 +18,7 @@ TabPet is an innovative Chrome extension that reimagines browser tabs as an inte
 
 ## Technical Innovation
 
-TabPet stands out by solving several unique technical challenges:
+Some fun things I had to do while making the extension:
 
 - Implemented a robust game engine architecture within Chrome extension constraints
 - Designed an object-oriented class hierarchy for pet behaviors and interactions
@@ -26,15 +26,6 @@ TabPet stands out by solving several unique technical challenges:
 - Developed a modular component system for extensible pet features
 - Reverse-engineered Google's account creation form UX to create a professional onboarding experience
 - Replicated complex form animations and styling through DOM inspection and analysis
-
-## UI/UX Design
-
-The project features a carefully crafted user experience that matches professional standards:
-
-- Reverse-engineered Google's form design patterns for a familiar, intuitive interface
-- Implemented smooth animations and transitions matching Google's design language
-- Created a seamless onboarding flow for pet adoption
-- Maintained consistent styling and interaction patterns throughout the extension
 
 ## Tech Stack
 
